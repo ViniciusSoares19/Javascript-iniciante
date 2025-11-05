@@ -1,2 +1,2 @@
 # Javascript-iniciante
-Projeto de aprendizado iniciante: Fundamentos Básicos de JavaScript
+Projeto de aprendizado iniciante: Fundamentos de JavaScript.
